@@ -1,3 +1,6 @@
-Just another file in the new-feature branch
+This line was replaced.
 
 This file was just modified.
+
+System.out.println('This is the best of the times we are facing');
+Printing in Java.
