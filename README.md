@@ -1,3 +1,6 @@
 # my-first-github-repository
 
-READM.md was just changed.
+This file was modified manually.
+
+I'm, Dhanush Surendra! Sup?
+Hang out with me sometime.
